@@ -169,24 +169,10 @@ a, a hover{
 	top: 48%;
 	right: -5px;
 }
-.ins{
-	width: 120px;
-	position: fixed;
-	top: 52%;
-	right: -97px;
-	cursor: pointer;
-	transition: 1s;
-}
-.ins:hover{
-	width: 120px;
-	position: fixed;
-	top: 52%;
-	right: -5px;
-}
 .yts{
 	width: 120px;
 	position: fixed;
-	top: 56%;
+	top: 52%;
 	right: -97px;
 	cursor: pointer;
 	transition: 1s;
@@ -194,10 +180,24 @@ a, a hover{
 .yts:hover{
 	width: 120px;
 	position: fixed;
-	top: 56%;
+	top: 52%;
 	right: -5px;
 }
 .pis{
+	width: 120px;
+	position: fixed;
+	top: 56%;
+	right: -97px;
+	cursor: pointer;
+	transition: 1s;
+}
+.pis:hover{
+	width: 120px;
+	position: fixed;
+	top: 56%;
+	right: -5px;
+}
+.ins{
 	width: 120px;
 	position: fixed;
 	top: 60%;
@@ -205,7 +205,7 @@ a, a hover{
 	cursor: pointer;
 	transition: 1s;
 }
-.pis:hover{
+.ins:hover{
 	width: 120px;
 	position: fixed;
 	top: 60%;
